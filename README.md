@@ -12,7 +12,7 @@ Purpose of the project:
 
 ```
 git clone https://github.com/Generalchrist/BistScrape.git
-cd spotify-clone
+cd BistScrape
 ```
 
 <p>2. Install dependencies:</p>
