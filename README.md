@@ -21,6 +21,12 @@ cd BistScrape
 npm install
 ```
 
+<p>2. Install Playwright dependencies:</p>
+
+```
+npx playwright install
+```
+
 <p>3. Start the development server:</p>
 
 ```
